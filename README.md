@@ -17,7 +17,8 @@ This project is done by a team of 2 people;
 # Ikechukwu Iwuchukwu
 [https://github.com/i-Double]
 [https://twitter.com/Iwu_Ike]
+
  AND
-# Chiamka Anachusi
+# Chiamaka Anachusi
 [https://github.com/Amypetua]
 [https://twitter.com/Anachusichiamak]
