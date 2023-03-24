@@ -10,7 +10,8 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 Monty has built-in support for stacks and queues through its data structures.
 # STACK
 A stack is a data structure that follows the LIFO (last in, first out) principle. This means that the last element added to the stack is the first one to be removed. The name "stack" comes from the way elements are added and removed from the collection, which resembles a stack of items. It uses two basic operations: push which is used to add elements to the top of a stack and pop which is used to remove elements from the top of a stack. It also uses other operations such as peek (which returns the top element without removing it) and clear (which removes all elements from the stack. Stack is typically implemented using array (static memory) or linked list (dynamic memory).
-#QUEUE
+
+# QUEUE
 A queue is is a data structure that follows the FIFO (first in, first out) principle. This means that first element added to the queue is the first one to be removed. A queue is similar to a stack, but the order of elements is different. It resembles a line of people waiting to be served. A queue uses two basic operations: enqueue, which adds an element to the back of the queue, and dequeue, which removes the front element from the queue. Queues are typically implemented using an array (static memory) or a linked list (dynamic memory).
 # AUTHORS
 This project is done by a team of 2 people;
