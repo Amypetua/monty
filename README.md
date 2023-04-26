@@ -16,10 +16,10 @@ A queue is is a data structure that follows the FIFO (first in, first out) princ
 # AUTHORS
 This project is done by a team of 2 people;
 # Ikechukwu Iwuchukwu
-[https://github.com/i-Double]
-[https://twitter.com/Iwu_Ike]
+[github](https://github.com/I-Double) 
+[Twitter](https://twitter.com/Iwu_Ike) 
 
  AND
 # Chiamaka Anachusi
-[https://github.com/Amypetua]
-[https://twitter.com/Anachusichiamak]
+[github](https://github.com/Amypetua) 
+[Twitter](https://twitter.com/Anachusichiamak) 
